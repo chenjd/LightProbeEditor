@@ -1,0 +1,2 @@
+# LightProbeEditor
+Unity LightProbe Editor
